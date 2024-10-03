@@ -10,10 +10,13 @@ library(fivethirtyeight)
 library(tidyverse)
 library(palmerpenguins)
 library(openintro)
+library(bayesrules)
+
 data("bad_drivers")
 data("penguins")
 data("mariokart")
-remove("penguins_raw")
+remove("penguins_raw") 
+data("hotel_bookings")
 ```
 
 In the rest of this document you can take notes as you listen to the lecture.
