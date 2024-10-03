@@ -4,4 +4,4 @@
 .Ruserdata
 *.DS_Store
 *.html
-*data_files
+*_files
